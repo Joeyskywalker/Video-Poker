@@ -1,0 +1,10 @@
+C:\Users\joey_\source\repos\VideoPoker\VideoPoker\bin\Debug\VideoPoker.exe.config
+C:\Users\joey_\source\repos\VideoPoker\VideoPoker\bin\Debug\VideoPoker.exe
+C:\Users\joey_\source\repos\VideoPoker\VideoPoker\bin\Debug\VideoPoker.pdb
+C:\Users\joey_\source\repos\VideoPoker\VideoPoker\obj\Debug\VideoPoker.csprojAssemblyReference.cache
+C:\Users\joey_\source\repos\VideoPoker\VideoPoker\obj\Debug\VideoPoker.Form1.resources
+C:\Users\joey_\source\repos\VideoPoker\VideoPoker\obj\Debug\VideoPoker.Properties.Resources.resources
+C:\Users\joey_\source\repos\VideoPoker\VideoPoker\obj\Debug\VideoPoker.csproj.GenerateResource.cache
+C:\Users\joey_\source\repos\VideoPoker\VideoPoker\obj\Debug\VideoPoker.csproj.CoreCompileInputs.cache
+C:\Users\joey_\source\repos\VideoPoker\VideoPoker\obj\Debug\VideoPoker.exe
+C:\Users\joey_\source\repos\VideoPoker\VideoPoker\obj\Debug\VideoPoker.pdb
